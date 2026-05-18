@@ -1,4 +1,4 @@
-# React + Vite #this is devops project
+# React + Vite #this is devops project for team C section 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
